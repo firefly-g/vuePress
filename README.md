@@ -1,2 +1,1 @@
-# vuePress
-documents of recording daily  life
+# Hello VuePress
